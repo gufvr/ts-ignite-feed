@@ -11,7 +11,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Ignite Feed" src=".github/preview.jpg">
+  <img alt="TypeScript Ignite Feed" src=".github/preview.jpg">
 </p>
 
 ## 🚀 Tecnologias
